@@ -1,1 +1,2 @@
-# Bank-Interest
+# Bank Interest Calculation
+![](sample.gif)
